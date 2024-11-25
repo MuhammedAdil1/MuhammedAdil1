@@ -9,6 +9,6 @@
 
 ## 🚀 Skills & Tools  
 - **Languages & Frameworks**: Dart, Flutter, Firebase, RESTful APIs  
-- **State Management**: Provider, Riverpod, Bloc (though I prefer not to use GetX 😉)  
+- **State Management**: Provider, Bloc (though I prefer not to use GetX 😉)  
 - **UI/UX Design**: Custom Animations, Google Fonts Integration, Material Design  
 - **Others**: Google Maps Integration, Backend Development
