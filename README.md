@@ -1,5 +1,3 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQEQJY19-KzUrw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1694328793102?e=2147483647&v=beta&t=SChX9VQpjHBbOknzpI-NGRqy0KQlWaVCg3M6ZBKFknk" width="100%">
-
 <div align="center">
   <h1>Hi 👋, I'm Muhammed Adil</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+Cross-Platform+Apps;Passionate+About+Building+Apps;Clean+%26+Scalable+Code;Experienced+in+State+Management;API+Integration+Expert;UI/UX+Design+Focused" />
@@ -24,27 +22,36 @@
 ### 🌐 Socials  
 <p align="left">
   <a href="https://x.com/muhammedadhilx?s=11" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/>
+    <img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="zubair340" height="40" width="40" style="margin-right: 10px;"/>
   </a>
-  <a href="https://linkedin.com/in/muhammed-adil2001" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
+  <a href="https://linkedin.com/in/muhammed-adil2001/" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="zubairehman" height="40" width="40" style="margin-right: 10px;"/>
   </a>
-  <a href="https://www.instagram.com/adhilx.__" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
+  <a href="https://www.instagram.com/adhilx.__/" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" alt="adhilx" height="40" width="40"/>
   </a>
 </p>
+
+
 
 ---
 
 ### 🛠️ Languages and Tools  
-<p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
 ---
 
