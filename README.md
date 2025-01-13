@@ -2,19 +2,22 @@
 
 <div align="center">
   <h1>Hi 👋, I'm Muhammed Adil</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Flutter+Developer;Passionate+About+Building+Apps;Clean+%26+Scalable+Code" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+Cross-Platform+Apps;Passionate+About+Building+Apps;Clean+%26+Scalable+Code;Experienced+in+State+Management;API+Integration+Expert;UI/UX+Design+Focused" />
 </div>
 
 ---
 
 <img align="right" alt="Coding GIF" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp?cid=6c09b95237f2f4e3b1c383a936cee33e7bf83aba25735436&rid=giphy.webp&ct=gif" />
 
-### 👨‍💻 About Me  
-- 🔭 **Currently Working On:** Elegant Chat App  
-- 🌱 **Learning:** Flutter advanced techniques, BLoC, Provider, and REST API integration  
-- 💬 **Ask Me About:** Flutter, Dart, and Mobile App Development  
-- 📫 **Reach Me At:** [LinkedIn](https://www.linkedin.com/in/muhammed-adil2001/)  
-- 👨‍🎓 **All My Projects:** [GitHub](https://github.com/MuhammedAdil1)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammedAdil&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammedAdil" /> </p>
+
+<p align="left"> <a href="https://x.com/muhammedadhilx?s=11" target="blank"><img src="https://img.shields.io/twitter/follow/muhammedadhilx?logo=twitter&style=for-the-badge" alt="muhammedadhilx" /></a> </p>
+
+- 🔭 **Currently Working On:** Elegant Flight Booking App  
+- 🌱 **Learning:** Flutter advanced techniques, BLoC, Provider
+- 💬 Ask me about android, flutter and enterprise mobility  
+- 📫 **How to reach me:** [adilx.2001@gmail.com](mailto:adilx.2001@gmail.com)
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/muhammed-adil2001/) 
 
 ---
 
